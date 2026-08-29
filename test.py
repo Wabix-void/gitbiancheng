@@ -1,0 +1,8 @@
+print("Hello World!!!")
+print("你好世界！")
+print("你好世界！")
+print("你好世界！")
+print("我一定要学好python！！！")
+print("我一定要学好python！！！")
+print("我一定要学好python！！！")
+print("我一定要学好python！！！")
